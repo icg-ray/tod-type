@@ -1,0 +1,9 @@
+TITLE = "Tod Type"
+FRAME_COLOR = 'white'
+FRAME_PAD = 50
+PAD = 20
+TITLE_FONT = ('Courier', 30, 'bold')
+FONT = ('Courier', 16)
+WRAPLENGTH = 500
+ANSWER_WIDTH = 50
+ANSWER_HEIGHT = 10
